@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62fbd337-ab89-40fe-83af-9df5f60b479b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/rocketmq-javaapi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rocketmq-javaapi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/batch/ListSplitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/batch/SimpleBatchProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/batch/SplitBatchProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/broadcast/PushConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/broadcast/PushConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/delay/DelayConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/delay/DelayConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/delay/DelayProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/filter/SqlFilterConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/filter/SqlFilterConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/filter/SqlFilterProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/filter/TagFilterConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/filter/TagFilterConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/filter/TagFilterProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/namespace/ProducerWithNamespace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/namespace/PullConsumerWithNamespace$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/namespace/PullConsumerWithNamespace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/namespace/PushConsumerWithNamespace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/ordermessage/Consumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/ordermessage/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/ordermessage/Producer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/ordermessage/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/quickstart/Consumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/quickstart/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/quickstart/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/rpc/AsyncRequestProducer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/rpc/AsyncRequestProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/rpc/RequestProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/rpc/ResponseConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/rpc/ResponseConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/AclClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/AclClient$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/AclClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/AsyncProducer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/AsyncProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/CachedQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/LitePullConsumerAssign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/LitePullConsumerSubscribe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/PullConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/PullConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/PullConsumerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/PullScheduleService$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/PullScheduleService$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/PullScheduleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/PushConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/PushConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/RandomAsyncCommit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/simple/TestProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/tracemessage/TraceProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/tracemessage/TracePushConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/tracemessage/TracePushConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/transaction/TransactionListenerImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/transaction/TransactionProducer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/example/transaction/TransactionProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jackxu/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jackxu/SimpleConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jackxu/SimpleConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/jackxu/AppTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q1MDaqIZpzajYjoPxM1KI3rcGT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SimpleConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jackxu.SimpleConsumer" />
+      <module name="rocketmq-javaapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jackxu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleConsumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62fbd337-ab89-40fe-83af-9df5f60b479b" name="Default Changelist" comment="" />
+      <created>1616242523519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616242523519</updated>
+      <workItem from="1616242525159" duration="667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1616242181197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1616242181197" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1616242561477">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616242561477" />
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1616243220518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616243220518" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1616243220518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616243220518" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1616243220518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616243220518" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1616243220518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616243220518" />
+    <state x="246" y="43" key="SettingsEditor" timestamp="1616243199981">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="246" y="43" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1616243199981" />
+  </component>
+</project>

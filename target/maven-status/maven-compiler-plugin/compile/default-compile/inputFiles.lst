@@ -1,7 +1,6 @@
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\broadcast\PushConsumer.java
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\filter\TagFilterConsumer.java
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\rpc\ResponseConsumer.java
-D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\operation\Producer.java
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\namespace\PushConsumerWithNamespace.java
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\simple\CachedQueue.java
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\simple\TestProducer.java
@@ -23,13 +22,11 @@ D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\ordermessage\Consumer.jav
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\delay\DelayProducer.java
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\jackxu\SimpleConsumer.java
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\transaction\TransactionProducer.java
-D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\benchmark\Producer.java
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\simple\AsyncProducer.java
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\simple\LitePullConsumerSubscribe.java
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\filter\TagFilterProducer.java
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\filter\SqlFilterConsumer.java
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\tracemessage\TraceProducer.java
-D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\benchmark\TransactionProducer.java
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\delay\DelayConsumer.java
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\simple\PullConsumer.java
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\simple\AclClient.java
@@ -38,4 +35,3 @@ D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\namespace\ProducerWithNam
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\simple\Producer.java
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\namespace\PullConsumerWithNamespace.java
 D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\rpc\AsyncRequestProducer.java
-D:\IdeaProjects\rocketmq-javaapi\src\main\java\example\operation\Consumer.java
