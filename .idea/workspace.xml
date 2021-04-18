@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62fbd337-ab89-40fe-83af-9df5f60b479b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rocketmq-javaapi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rocketmq-javaapi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/jackxu/AppTest.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jackxu/AsyncProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jackxu/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jackxu/OnewayProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jackxu/ProducerSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jackxu/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jackxu/Producer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1q1MDaqIZpzajYjoPxM1KI3rcGT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,11 +48,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Rocketmq/Mic老师/Microcketmq-demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jackxu" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.SimpleConsumer">
     <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -78,15 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -124,7 +130,9 @@
       <workItem from="1616242525159" duration="784000" />
       <workItem from="1616245048286" duration="40000" />
       <workItem from="1616761430716" duration="17163000" />
-      <workItem from="1616930596875" duration="2358000" />
+      <workItem from="1616930596875" duration="2608000" />
+      <workItem from="1616940950527" duration="125000" />
+      <workItem from="1618747901009" duration="3617000" />
     </task>
     <servers />
   </component>

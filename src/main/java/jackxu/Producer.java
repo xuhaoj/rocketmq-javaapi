@@ -7,6 +7,7 @@ import org.apache.rocketmq.common.message.Message;
 
 /**
  * @author jackxu
+ * 同步发送
  */
 public class Producer {
 
